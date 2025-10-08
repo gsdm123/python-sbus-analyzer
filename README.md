@@ -49,6 +49,12 @@ python sbus_analyzer.py
    - 选择 `4` 开始记录数据到CSV文件
    - 选择 `6` 显示当前通道数据
 
+### 使用界面展示
+
+![SBUS分析器主界面](imgs/1.png)
+
+![SBUS数据分析界面](imgs/2.png)
+
 ## SBUS串口参数
 
 - **波特率**: 100000 bps（固定）
